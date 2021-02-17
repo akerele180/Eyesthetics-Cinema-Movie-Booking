@@ -143,4 +143,14 @@ span {
     .level4 .seats {
         margin: 7px;
     }
+    h1 {
+        font-size: 4rem;
+        margin-bottom: 15px;
+    }
+    .level2 {
+        margin-bottom: 10px;
+    }
+    .screen {
+        margin-top: 15px;
+    }
 }
